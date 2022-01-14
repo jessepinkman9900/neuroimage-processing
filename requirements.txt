@@ -1,0 +1,4 @@
+ipykernel==6.7.0
+jupyterlab==3.2.8
+nilearn==0.8.1
+matplotlib==3.5.1
